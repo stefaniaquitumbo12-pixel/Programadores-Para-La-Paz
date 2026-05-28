@@ -1,0 +1,11 @@
+Pruebas de rutas:
+
+1. http://localhost:3000
+   - Muestra en el navegador: "Servidor activo"
+
+2. http://localhost:3000/saludo
+   - Muestra en el navegador: "Hola comunidad"
+
+3. http://localhost:3000/mensaje/juan
+   - Muestra en el navegador: "Hola juan"
+   - Nota: Si cambio "juan" por otro nombre, se muestra "Hola [nombre]"
