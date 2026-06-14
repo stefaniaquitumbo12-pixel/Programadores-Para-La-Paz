@@ -1,0 +1,6 @@
+Pregunta 8 - Ejemplo de JSON para reportar una incidencia
+
+{
+  "tipo": "Bache en la vía",
+  "descripcion": "En la carrera 7 con calle 12 hay un bache grande que ha causado accidentes. La comunidad solicita reparación urgente."
+}

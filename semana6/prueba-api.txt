@@ -1,0 +1,18 @@
+Pregunta 7 - Prueba de la API
+
+Cuando enviamos una petición POST a http://localhost:3000/registro con el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor responde con:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto significa que el servidor recibió correctamente los datos y los devolvió como confirmación.
