@@ -1,0 +1,11 @@
+Pregunta 7 - Prueba de la API de reportes 
+ 
+Cuando enviamos una peticion POST a http://localhost:3000/reportes con un JSON que contiene tipo y descripcion, el servidor recibe los datos, les asigna un ID automatico y los guarda en un array llamado "reportes". 
+ 
+Luego, cuando hacemos una peticion GET a http://localhost:3000/reportes, el servidor responde con un array que contiene TODOS los reportes registrados hasta el momento. 
+ 
+Esto permite: 
+- Registrar nuevos reportes (POST) 
+- Consultar la lista completa de reportes (GET) 
+ 
+Los datos se mantienen en memoria mientras el servidor esta funcionando. 

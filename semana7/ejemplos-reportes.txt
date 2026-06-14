@@ -1,0 +1,13 @@
+Pregunta 8 - Ejemplos de reportes ciudadanos 
+ 
+Ejemplo 1: 
+{ 
+  "tipo": "Infraestructura", 
+  "descripcion": "Dano en alumbrado publico en la calle 15 con carrera 8, lleva 3 dias sin funcionar." 
+} 
+ 
+Ejemplo 2: 
+{ 
+  "tipo": "Ambiente", 
+  "descripcion": "Acumulacion de residuos en el parque del barrio Las Flores, hay malos olores y plagas." 
+} 

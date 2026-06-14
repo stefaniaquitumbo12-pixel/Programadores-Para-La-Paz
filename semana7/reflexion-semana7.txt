@@ -1,0 +1,13 @@
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnologica porque esto permite centralizar la informacion y darle seguimiento a los problemas. 
+ 
+Cuando los ciudadanos tienen un lugar donde reportar baches, alumbrado danado o acumulacion de basura, las autoridades pueden responder de manera mas rapida y organizada. 
+ 
+Ademas, la posibilidad de consultar reportes anteriores permite a la comunidad conocer que problemas ya fueron reportados y cual es su estado. 
+ 
+Esto fomenta la transparencia y la confianza entre los ciudadanos y las entidades encargadas de solucionar las incidencias. 
+ 
+Una plataforma bien disenada tambien ayuda a identificar zonas con mas problemas y priorizar acciones. 
+ 
+El uso de tecnologias como Node.js y Express facilita la creacion de estas herramientas de bajo costo y acceso abierto. 
+ 
+En resumen, registrar y consultar reportes comunitarios fortalece la participacion ciudadana y mejora la calidad de vida de todos. 
