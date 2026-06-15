@@ -1,0 +1,7 @@
+3 practicas basicas de seguridad digital: 
+ 
+1. Proteger contrasenas: Usar contrasenas largas, unicas y nunca compartirlas con nadie. 
+ 
+2. No compartir credenciales: Cada persona debe tener su propio usuario y contrasena. 
+ 
+3. Mantener el software actualizado: Las actualizaciones incluyen parches de seguridad importantes. 

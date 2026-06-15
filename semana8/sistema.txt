@@ -1,0 +1,10 @@
+Pregunta 7 - Informacion del sistema 
+ 
+Comando "uname -a": 
+Muestra informacion completa del sistema operativo, incluyendo el nombre del kernel, la version, la fecha de compilacion y la arquitectura del procesador. Es util para saber que sistema operativo esta ejecutando el servidor. 
+ 
+Comando "whoami": 
+Muestra el nombre del usuario actual que esta ejecutando la terminal. Es util para saber con que permisos y que identidad se estan ejecutando los comandos. 
+ 
+Por que es util conocer esta informacion: 
+Cuando se administra un servidor, es fundamental saber que sistema operativo tiene, que version del kernel esta usando y que usuario esta ejecutando los comandos. Esto ayuda a diagnosticar problemas, instalar software compatible, gestionar permisos y asegurar que las tareas se ejecuten con los niveles de acceso correctos. 
