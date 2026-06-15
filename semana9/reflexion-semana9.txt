@@ -1,0 +1,14 @@
+Son archivos o registros donde el servidor guarda informacion sobre su actividad: solicitudes recibidas, errores, advertencias y eventos importantes. Sirven para monitorear y diagnosticar problemas.  Es importante que las plataformas tecnologicas que usan las comunidades funcionen de manera estable y segura en un servidor porque de ello depende la confianza de los ciudadanos en la herramienta. 
+ 
+Si una plataforma comunitaria se cae frecuentemente o responde lento, los usuarios dejaran de usarla y los reportes ciudadanos se perderan. 
+ 
+Un servidor estable garantiza que la informacion este siempre disponible cuando alguien necesita reportar un bache, una lampara danada o una emergencia. 
+ 
+La seguridad del servidor protege los datos personales de los ciudadanos que confian en la plataforma para hacer sus reportes. 
+ 
+Ademas, los logs permiten a los administradores identificar errores y solucionarlos rapidamente antes de que afecten a la comunidad. 
+ 
+Un servidor bien gestionado tambien puede crecer junto con la comunidad, soportando mas usuarios y mas reportes sin perder rendimiento. 
+ 
+Por eso, quienes construyen tecnologia para comunidades deben aprender sobre servidores, monitoreo y seguridad. 
+ 

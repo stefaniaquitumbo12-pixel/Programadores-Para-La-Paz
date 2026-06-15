@@ -1,0 +1,15 @@
+Pregunta 8 - Componentes de un entorno servidor 
+ 
+SISTEMA OPERATIVO: 
+Es el software base que administra el hardware y permite ejecutar programas. En un servidor, el sistema operativo gestiona los recursos como memoria, procesador y disco, y proporciona la plataforma donde corren las aplicaciones. 
+ 
+Node.js: 
+Es un entorno que permite ejecutar JavaScript en el servidor. Node.js incluye un motor para interpretar el codigo y librerias para manejar archivos, redes y peticiones HTTP. 
+ 
+APLICACION server.js: 
+Es el codigo que escribimos para definir como responde el servidor a las solicitudes de los usuarios. Contiene las rutas y la logica de negocio de la API. 
+ 
+PUERTO: 
+Es una direccion virtual que permite al servidor recibir solicitudes. El puerto 3000 es comun en desarrollo; en produccion se suelen usar los puertos 80 u 443. 
+ 
+LOGS: 
