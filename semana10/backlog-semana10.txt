@@ -1,0 +1,14 @@
+=== BACKLOG SEMANA 10 === 
+Lista de tareas priorizadas para la veeduria comunitaria 
+ 
+Prioridad ALTA: 
+1. Configurar el canal de Telegram para recibir reportes. 
+2. Definir roles y responsables del equipo. 
+ 
+Prioridad MEDIA: 
+3. Crear plantilla de mensajes automaticos para respuestas rapidas. 
+4. Capacitar al equipo en el uso de n8n. 
+ 
+Prioridad BAJA: 
+5. Disenar un tablero visual con el estado de los casos. 
+6. Generar reportes semanales de seguimiento. 

@@ -1,0 +1,14 @@
+=== PREGUNTAS SEMANA 10 === 
+ 
+1. ¨Qu‚ es un backlog y para qu‚ sirve? 
+Un backlog es una lista priorizada de tareas pendientes. Sirve para organizar el trabajo, saber que hay que hacer y en que orden, evitando que se pierdan solicitudes importantes. 
+ 
+2. ¨Qu‚ es una iteracion en metodologias agiles? 
+Es un ciclo de trabajo corto y fijo (ej: 1 o 2 semanas) donde el equipo completa un conjunto de tareas del backlog. Permite entregar avances parciales, recibir retroalimentacion y ajustar el rumbo rapidamente. 
+ 
+3. ¨Qu‚ evento activa el flujo de automatizacion? 
+El evento que activa el flujo es: nuevo reporte registrado en el sistema. 
+ 
+4. ¨Qu‚ mensaje se enviaria a Telegram? 
+El mensaje seria: "Nuevo reporte recibido. Revisar sistema." 
+Informacion que NO debe enviarse: nombres completos, documentos de identidad, direcciones, telefonos, claves o datos sensibles. 

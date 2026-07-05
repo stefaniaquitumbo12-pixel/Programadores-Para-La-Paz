@@ -1,0 +1,25 @@
+=== AUTOMATIZACION RESPONSABLE === 
+ 
+Herramienta: n8n + Telegram 
+ 
+Evento que activa el flujo: 
+Nuevo reporte registrado en el sistema. 
+ 
+Accion automatizada: 
+Enviar un mensaje al canal de Telegram del equipo de veeduria. 
+ 
+Mensaje a enviar: 
+"Nuevo reporte recibido. Revisar sistema." 
+ 
+Informacion que NO debe enviarse por seguridad: 
+- Nombres completos de los ciudadanos. 
+- Numeros de identificacion (cedula, pasaporte, etc.). 
+- Direcciones de residencia o ubicacion exacta. 
+- Numeros de telefono. 
+- Claves o contrasenas. 
+- Cualquier dato sensible que pueda identificar a una persona. 
+ 
+Medidas de seguridad: 
+- Configurar autenticacion y permisos en n8n. 
+- No almacenar informacion personal en los flujos de automatizacion. 
+- Revision humana antes de tomar decisiones automaticas. 

@@ -1,0 +1,13 @@
+=== ITERACION 1 - SEMANA 10 === 
+Duracion: 1 semana (del 4 al 10 de julio de 2026) 
+ 
+Tareas asignadas para esta iteracion: 
+1. [ALTA] Configurar canal de Telegram para reportes. 
+2. [ALTA] Definir roles y responsables del equipo. 
+ 
+Objetivo de la iteracion: 
+Tener lista la infraestructura basica de comunicacion para que la comunidad pueda empezar a enviar reportes y el equipo sepa quien atiende cada cosa. 
+ 
+Revision al final de la iteracion: 
+- Verificar que el canal de Telegram funcione correctamente. 
+- Confirmar que todos los miembros del equipo conocen su rol. 
