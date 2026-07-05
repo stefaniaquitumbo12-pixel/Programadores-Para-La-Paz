@@ -1,0 +1,20 @@
+=== INTERFAZ BASICA DE LA PLATAFORMA === 
+ 
+La interfaz de la plataforma comunitaria estara disenada para ser clara, sencilla y accesible para todos los ciudadanos. No mostrara informacion privada de los usuarios en ningun momento. 
+ 
+1. Formulario para crear una causa: 
+Un formulario con campos para titulo, descripcion y fecha. Cualquier ciudadano autenticado puede proponer una nueva causa para que la comunidad la conozca. 
+ 
+2. Lista de causas disponibles: 
+Se mostraran todas las causas activas con su titulo, descripcion, fecha de creacion y un contador de apoyos. La lista estara ordenada por fecha de creacion o por numero de apoyos. 
+ 
+3. Boton para apoyar una causa: 
+Cada causa tendra un boton "Apoyar" que los usuarios autenticados pueden presionar para registrar su respaldo. Al hacer clic, el contador de apoyos se incrementara en tiempo real. 
+ 
+4. Contador de apoyos: 
+Junto a cada causa se mostrara un numero que indica cuantas personas han apoyado esa iniciativa. Esto permite medir el interes de la comunidad y priorizar las causas mas relevantes. 
+ 
+5. Vista de detalle de causa: 
+Al hacer clic en una causa, se podra ver informacion completa, incluyendo los comentarios de los ciudadanos que la han apoyado (sin mostrar datos personales sensibles). 
+ 
+La interfaz debe ser responsiva (funcionar en celulares y computadoras) y utilizar colores claros que transmitan confianza y transparencia. 

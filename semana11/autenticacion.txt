@@ -1,0 +1,9 @@
+=== AUTENTICACION DE USUARIOS ===
+
+El login en una aplicacion es el proceso mediante el cual un usuario se identifica ante el sistema usando credenciales como usuario y contrasena. Esto permite que la aplicacion sepa quien esta interactuando con ella y pueda personalizar la experiencia segun el rol o permisos de cada persona.
+
+Algunas rutas deben estar protegidas porque pueden contener informacion privada, registros internos, datos de otros usuarios o acciones administrativas que no deberian estar disponibles para cualquier persona sin autenticacion. Por ejemplo, el panel de administracion, la lista completa de apoyos o la eliminacion de causas deben ser accesibles solo para usuarios autorizados.
+
+No se deben exponer publicamente contrasenas, documentos de identidad, numeros de telefono, direcciones de residencia, tokens de autenticacion, claves de API ni ningun dato sensible que pueda identificar a una persona o comprometer su privacidad. La informacion personal debe manejarse con cifrado y solo mostrarse cuando sea estrictamente necesario.
+
+Tambien es importante implementar medidas como el hash de contrasenas, el uso de HTTPS para proteger la informacion en tr nsito y la limitacion de intentos de login para prevenir ataques de fuerza bruta. La autenticacion no solo protege a los usuarios, sino que tambien mantiene la integridad de la plataforma.
