@@ -1,0 +1,15 @@
+Modelo de datos simple: 
+ 
+Entidad CAUSA: 
+- id (identificador unico) 
+- titulo (nombre de la causa) 
+- descripcion (explicacion de la causa) 
+- fecha (fecha de creacion) 
+ 
+Entidad APOYO: 
+- id (identificador unico del apoyo) 
+- causa_id (referencia a la causa apoyada) 
+- nombre (nombre de la persona que apoya) 
+- fecha (fecha en que se registro el apoyo) 
+ 
+La entidad Causa almacena la informacion de cada peticion, mientras que la entidad Apoyo registra a cada persona que respalda una causa, permitiendo llevar un conteo y trazabilidad. 

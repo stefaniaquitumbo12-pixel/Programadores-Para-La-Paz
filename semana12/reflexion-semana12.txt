@@ -1,0 +1,9 @@
+Reflexion final del curso: 
+ 
+Durante este curso aprendi que la tecnologia, cuando se disena con un proposito claro y etico, puede ser una herramienta poderosisima para fortalecer la participacion ciudadana y la organizacion comunitaria. 
+Comprendi que no basta con crear codigo; hay que entender las necesidades reales de las personas y disenar soluciones accesibles, seguras y transparentes. 
+Aprendi a utilizar herramientas como Git para el trabajo colaborativo, Node.js y Express para el backend, y bases de datos para almacenar informacion de manera ordenada. 
+Tambien valore la importancia de minimizar los datos personales para proteger la privacidad de los participantes, y el uso de automatizaciones (como n8n o Telegram) para mantener informada a la comunidad. 
+La experiencia de construir "Peticion en 3 Clics" me mostro que la tecnologia puede reducir las barreras burocraticas y dar voz a quienes normalmente no son escuchados. 
+Me llevo el aprendizaje de que cada linea de codigo puede ser un paso hacia una sociedad mas justa, participativa y transparente, y que la etica y la responsabilidad deben estar siempre presentes en el desarrollo tecnologico. 
+Este curso transformo mi vision sobre la programacion: ya no la veo solo como un oficio tecnico, sino como una herramienta de cambio social. 
